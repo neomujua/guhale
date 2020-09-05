@@ -8,3 +8,5 @@
 2. Open with XCode(Clone) 해서 로컬에 받아주세요
 
 3. build 후 실행해주세요
+
+# PR 규칙
